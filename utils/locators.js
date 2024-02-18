@@ -16,5 +16,4 @@ module.exports = {
       subpart_A: '//p[text()="Subpart A—Administrative Provisions"]',
       regulation_cover_40_1: '//p[text()="§ 40.1 Who does this regulation cover?"]'
     }
-
   };
